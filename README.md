@@ -16,5 +16,5 @@ Please refer to the provided Figma designs: [Nextjs Task - Figma Designs](https:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Magdalinprincy/gweiland-nextjs-task.git
    ```
